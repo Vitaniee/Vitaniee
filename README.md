@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vitanie
-- 👀 I’m interested in reading, traveling, meeting new friends...
-- 🌱 I’m currently learning Python, especially data analysis
-- 💞️ I’m looking to collaborate on any started and simple project that can help me learn Python
+- 👀 I’m interested in reading, traveling, meeting new friends...Please feel free to reach out!
+- 👀 I’m also interested in WEB3, AI, Climate Change...
+- 🌱 I’m currently learning Machine Learning, Deep Learning, and French
 - 📫 Email me: vitaniecao@gmail.com
 
 <!---
